@@ -1,2 +1,2 @@
-# TensorflowLearningDocs
-Collection Of TensorflowLearning Docs
+# DeepLearningDocs
+Collection Of DeepLearning Docs
